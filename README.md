@@ -1,7 +1,81 @@
-We are analyzing the ADS Car Crash Data. This dataset contains the info of 1115 NHTSA reports. Looking at the distribution of roadway accidents, it is shown that 68.97% of accidents occur on the streets, 21.52% on intersections, 7.35% in parking lots, 1.97% on highways, and 0.18% on traffic circles. This data shows us that the majority of road accidents that occur on a daily basis are on city streets. The dataset also highlights existing road and traffic conditions. In that case, we can see that 92.56% of accidents occur during normal conditions. Based on that, the question behind this was if those existing conditions played a role in the accidents. Considering the results that were found in the dataset, we can say that existing conditions do not play a role in them. It is also safe to say that there are barely any incidents in a work zone as confirmed that out of the 115 reports, only 23 of them were from the work zones. 
+readme_content = """<div align="left">
 
-We also analyzed how weather played a role in traffic incidents. The conditions that we considered were clear, cloudy, partly cloudy, rain, snow, etc. Out of all the conditions that were listed, we can see that 74.41% of the incidents occur in clear weather. The data shows us that weather does not play a significant role out of all the accidents in the dataset.
+# <font color="#1D4ED8">🚗 ADS Car Crash Data Analysis Report</font>
 
-The dataset also highlights what kind of vehicles are involved in a collision. After running the code to generate a table, we can see that the top subjects are passenger cars and SUVs. To be accurate, there were 361 reported passenger car accidents and 257 reports from accidents involving an SUV. From there, we need to see what are the issues that lead to the accidents. Fortunately, the dataset has Pre-Crash movement data that highlights what happened before the accidents. The leading category was “Proceeding Straight", which topped all the other categories with a count of 398 reports.
+---
 
-After an accident, there is a possibility of the persons involved getting injured. The dataset contains the injuries that the persons involved have suffered after the accidents. According to the data, about 82% of the accidents did not result in injury, rather it led to property damage. With that, there were few incidents that led to hospitalization, and only one that resulted in a fatality.
+### <font color="#2563EB">📌 Executive Summary</font>
+
+<blockquote>
+<font color="#1E40AF" size="3">
+We analyzed the <b>ADS Car Crash Dataset</b> containing information from <b>1,115 NHTSA reports</b>. The findings indicate that daily road accidents occur predominantly on city streets during normal conditions and clear weather, with pre-crash movements mostly involving vehicles proceeding straight.
+</font>
+</blockquote>
+
+---
+
+### <font color="#2563EB">📍 Roadway Distribution & Work Zones</font>
+
+<font color="#1E3A8A">
+
+Analyzing the distribution of roadway accidents shows that the vast majority occur on city streets rather than highways or work zones:
+
+</font>
+
+| Location | Share of Accidents (%) |
+| :--- | :--- |
+| **City Streets** | `68.97%` |
+| **Intersections** | `21.52%` |
+| **Parking Lots** | `7.35%` |
+| **Highways** | `1.97%` |
+| **Traffic Circles** | `0.18%` |
+
+<font color="#1E3A8A">
+
+* **Existing Road Conditions:** <b>92.56%</b> of accidents occurred during normal conditions, demonstrating that existing road conditions do not play a primary role in collisions.
+* **Work Zones:** Out of 1,115 reports, only <b>23 accidents</b> occurred within work zones.
+
+</font>
+
+---
+
+### <font color="#2563EB">🌤️ Weather & Environmental Factors</font>
+
+<font color="#1E3A8A">
+
+We analyzed weather conditions including clear, cloudy, partly cloudy, rain, and snow:
+
+* <b>74.41%</b> of all incidents occurred in **clear weather**.
+* **Conclusion:** Weather conditions do not play a significant contributing role in the majority of accidents in this dataset.
+
+</font>
+
+---
+
+### <font color="#2563EB">🚘 Vehicles Involved & Pre-Crash Movement</font>
+
+<font color="#1E3A8A">
+
+* **Top Vehicle Types:** Passenger Cars (<b>361 reports</b>) and SUVs (<b>257 reports</b>).
+* **Pre-Crash Movement:** The leading category preceding collisions was <b>"Proceeding Straight"</b>, topping all other categories with <b>398 reports</b>.
+
+</font>
+
+---
+
+### <font color="#2563EB">🩺 Injury Severity & Impact</font>
+
+<font color="#1E3A8A">
+
+* <b>82%</b> of accidents resulted in **property damage only** without injury.
+* Only a few incidents required hospitalization, and **only one fatality** was reported in the entire dataset.
+
+</font>
+
+</div>
+"""
+
+with open("README.md", "w", encoding="utf-8") as file:
+    file.write(readme_content)
+
+print("README.md created successfully!")
