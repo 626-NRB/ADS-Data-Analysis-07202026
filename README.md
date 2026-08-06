@@ -33,7 +33,8 @@ Analyzing the distribution of roadway accidents shows that the vast majority occ
 <font color="#1E3A8A">
 
 * **Existing Road Conditions:** <b>92.56%</b> of accidents occurred during normal conditions, demonstrating that existing road conditions do not play a primary role in collisions.
-* **Work Zones:** Out of 1,115 reports, only <b>23 accidents</b> occurred within work zones. From this analysis, we can assume that with additional science and directions, vehicles might have been able to operate very well. Also, work zones usually have reduced speed which may favor the vehicles following the rules easily. On the other hand, it is concerning that most accidents occurred during normal road conditions while the vehicles were already trained with such road conditions. This indicates major upgrades are still needed for vehicles to operate with driverless mode.
+* **Work Zones:** Out of 1,115 reports, only <b>23 accidents</b> occurred within work zones.
+* From this analysis, we can assume that with additional signs and directions, vehicles might have been able to operate very well. Also, work zones usually have reduced speed which may favor the vehicles following the rules easily. On the other hand, it is concerning that most accidents occurred during normal road conditions while the vehicles were already trained with such road conditions. This indicates major upgrades are still needed for vehicles to operate with driverless mode.
 
 </font>
 
