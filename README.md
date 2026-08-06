@@ -33,7 +33,7 @@ Analyzing the distribution of roadway accidents shows that the vast majority occ
 <font color="#1E3A8A">
 
 * **Existing Road Conditions:** <b>92.56%</b> of accidents occurred during normal conditions, demonstrating that existing road conditions do not play a primary role in collisions.
-* **Work Zones:** Out of 1,115 reports, only <b>23 accidents</b> occurred within work zones.
+* **Work Zones:** Out of 1,115 reports, only <b>23 accidents</b> occurred within work zones. From this analysis, we can assume that with additional science and directions, vehicles might have been able to operate very well. Also, work zones usually have reduced speed which may favor the vehicles following the rules easily. On the other hand, it is concerning that most accidents occurred during normal road conditions while the vehicles were already trained with such road conditions. This indicates major upgrades are still needed for vehicles to operate with driverless mode.
 
 </font>
 
@@ -58,6 +58,7 @@ We analyzed weather conditions including clear, cloudy, partly cloudy, rain, and
 
 * **Top Vehicle Types:** Passenger Cars (<b>361 reports</b>) and SUVs (<b>257 reports</b>).
 * **Pre-Crash Movement:** The leading category preceding collisions was <b>"Proceeding Straight"</b>, topping all other categories with <b>398 reports</b>.
+* This is very surprising as a lot of accidents occur during turns at an intersection with human drivers. As the driverless vehicles are equipped with advanced sensors and AI technology, people expect them to be well trained to assess or analyze the road conditions very well, especially when they are going straight because that is probably a less complicated situation while driving.
 
 </font>
 
@@ -69,6 +70,7 @@ We analyzed weather conditions including clear, cloudy, partly cloudy, rain, and
 
 * <b>82%</b> of accidents resulted in **property damage only** without injury.
 * Only a few incidents required hospitalization, and **only one fatality** was reported in the entire dataset.
+* The data shows that mostly bodily vehicle damage occurred during accidents with a low rate of human injury. From there, we can say that human safety is not at risk with these driverless vehicle, even though a single fatality is very concerning. The major concern here is the property damage.
 
 </font>
 
