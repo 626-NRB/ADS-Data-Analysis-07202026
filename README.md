@@ -71,7 +71,7 @@ We analyzed weather conditions including clear, cloudy, partly cloudy, rain, and
 
 * <b>82%</b> of accidents resulted in **property damage only** without injury.
 * Only a few incidents required hospitalization, and **only one fatality** was reported in the entire dataset.
-* The data shows that mostly bodily vehicle damage occurred during accidents with a low rate of human injury. From there, we can say that human safety is not at risk with these driverless vehicle, even though a single fatality is very concerning. The major concern here is the property damage.
+* The data shows that mostly bodily vehicle damage occurred during accidents with a low rate of human injury. The major concern here is the property damage. However, a single fatality is too many. It does not rule out the human safety risk.
 
 </font>
 
