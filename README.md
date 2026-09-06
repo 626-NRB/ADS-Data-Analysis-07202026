@@ -18,6 +18,8 @@ We analyzed the <b>ADS Car Crash Dataset</b> containing information from <b>1,11
 
 <font color="#1E3A8A">
 
+<img width="586" height="418" alt="Screenshot 2026-09-05 214531" src="https://github.com/user-attachments/assets/7a5c0f17-806a-4a51-a93d-03e04378efcb" />
+
 Analyzing the distribution of roadway accidents shows that the vast majority occur on city streets rather than highways or work zones:
 
 </font>
@@ -56,6 +58,8 @@ We analyzed weather conditions including clear, cloudy, partly cloudy, rain, and
 ### <font color="#2563EB">🚘 Vehicles Involved & Pre-Crash Movement</font>
 
 <font color="#1E3A8A">
+
+<img width="929" height="298" alt="Screenshot 2026-09-05 214845" src="https://github.com/user-attachments/assets/64fcbc69-a8f5-4c8c-bacb-727f40ae897d" />
 
 * **Top Vehicle Types:** Passenger Cars (<b>361 reports</b>) and SUVs (<b>257 reports</b>).
 * **Pre-Crash Movement:** The leading category preceding collisions was <b>"Proceeding Straight"</b>, topping all other categories with <b>398 reports</b>.
