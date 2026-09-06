@@ -75,4 +75,15 @@ We analyzed weather conditions including clear, cloudy, partly cloudy, rain, and
 
 </font>
 
+---
+
+### <font color="#2563EB">Reference</font>
+
+<font color="#1E3A8A">
+
+* **Notebook:** https://colab.research.google.com/drive/1YyaVfWZ_FWeDAAQsl1ADfIqPAw_H8nCQ?usp=sharing
+* **Notes: ** Be sure to download the dataset (and upload it to Google Drive if neccesary) and place it in the notebook before running every operation. This will prevent most issues with reading the dataset.
+
+</font>
+
 </div>
