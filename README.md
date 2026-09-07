@@ -73,6 +73,8 @@ We analyzed weather conditions including clear, cloudy, partly cloudy, rain, and
 
 <font color="#1E3A8A">
 
+<img width="803" height="251" alt="Screenshot 2026-09-07 093903" src="https://github.com/user-attachments/assets/625fed02-dcc1-46a0-9cdd-4dba4b7611ce" />
+
 * <b>82%</b> of accidents resulted in **property damage only** without injury.
 * Only a few incidents required hospitalization, and **only one fatality** was reported in the entire dataset.
 * The data shows that mostly bodily vehicle damage occurred during accidents with a low rate of human injury. The major concern here is the property damage. However, a single fatality is too many. It does not rule out the human safety risk.
@@ -86,7 +88,7 @@ We analyzed weather conditions including clear, cloudy, partly cloudy, rain, and
 <font color="#1E3A8A">
 
 * **Notebook:** https://colab.research.google.com/drive/1YyaVfWZ_FWeDAAQsl1ADfIqPAw_H8nCQ?usp=sharing
-* **Notes: ** Be sure to download the dataset (and upload it to Google Drive if neccesary) and place it in the notebook before running every operation. This will prevent most issues with reading the dataset.
+* **Notes:** Be sure to download the dataset (and upload it to Google Drive if neccesary) and place it in the notebook before running every operation. This will prevent most issues with reading the dataset.
 
 </font>
 
